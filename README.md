@@ -2,7 +2,7 @@
 
 I ship production systems on AWS, automate deployments with CI/CD, and build full-stack apps with Next.js, Node.js & TypeScript. Also co-authoring 5 AI/NLP research papers at UTHM — because why not do both.
 
-📍 Malaysia · Open to Remote & USA roles
+📍 Dhaka · Open to Remote roles
 
 ---
 
