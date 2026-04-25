@@ -1,7 +1,6 @@
-# Hi, I'm Abdul Mueid 👋
+# Hi, I'm Abdul Mueid 
 
 **Cloud & DevOps Engineer · Full-Stack Developer · NLP Researcher**  
-📍 Malaysia · Open to Remote & USA Roles
 
 ---
 
