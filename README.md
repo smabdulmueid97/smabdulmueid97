@@ -20,4 +20,4 @@ Cloud & DevOps Engineer with hands-on experience deploying and administering app
 
 ### 📫 Let's connect
 
-[![Email](https://img.shields.io/badge/Email-smabdulmueid03@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smabdulmueid03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-smabdulmueid03@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smabdulmueid003@gmail.com)
