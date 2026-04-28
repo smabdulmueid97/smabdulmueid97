@@ -11,15 +11,9 @@
 </p>
 
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,githubactions,git&perline=6" alt="Cloud & DevOps"/>
-</a>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,ts,js,python,cs,dotnet,angular&perline=9" alt="Back-End & Front-End"/>
-</a>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,tailwind,html,java,postman&perline=6" alt="Databases & Tools"/>
-</a>
+
+
+
 
 
 <p align="center">
