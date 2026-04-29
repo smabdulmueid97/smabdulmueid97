@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://linkedin.com/in/smabdulmueid97"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://smabdulmueid97.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:smabdulmueid03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white"/>
