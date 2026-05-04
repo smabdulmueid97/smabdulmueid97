@@ -1,25 +1,8 @@
-<!-- ████████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░ SMABDULMUEID97 — GITHUB PROFILE ░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████████ -->
-<div align="center">
-╔══════════════════════════════════════════════════════╗
-║ ║
-║ S M A B D U L M U E I D ║
-║ ║
-╚══════════════════════════════════════════════════════╝
-</div>
-<div align="center">
-<!-- GITHUB STATS — PITCH BLACK -->
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api?username=smabdulmueid97&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
+  <img src="https://github-readme-stats.lovesykun.cn/api?username=smabdulmueid97&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
 </picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.
-<img src="https://github-readme-stats.lovesykun.cn/api?username=smabdulmueid97&show_icons=t
-<!-- TOP LANGUAGES — PITCH BLACK -->
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=smabdulmueid97&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
+  <img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=smabdulmueid97&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
 </picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.
-<img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=smabdulmueid97&l
-</div>
-<div align="center">
-building · learning · collaborating · shipping
-</div>
