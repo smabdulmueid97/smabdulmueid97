@@ -12,10 +12,24 @@
 
 <div align="center">
 
-  <!-- GITHUB STATS (FIXED STABLE VERSION) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smabdulmueid97&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" />
+  <!-- GITHUB STATS (STABLE MIRROR) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.lovesykun.cn/api?theme=onedark&username=smabdulmueid97&show_icons=true&include_all_commits=true&rank_icon=percentile&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+
+    <img 
+      src="https://github-readme-stats.lovesykun.cn/api?username=smabdulmueid97&show_icons=true&include_all_commits=true&rank_icon=percentile&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+      width="48%">
+  </picture>
 
   <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smabdulmueid97&layout=compact&theme=react&hide_border=true&langs_count=8" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=smabdulmueid97&layout=compact&langs_count=8">
+
+    <img 
+      src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=smabdulmueid97&layout=compact&langs_count=8"
+      width="48%">
+  </picture>
 
 </div>
