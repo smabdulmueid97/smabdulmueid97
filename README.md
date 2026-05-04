@@ -1,25 +1,25 @@
-<picture>    
-  <source media="(prefers-color-scheme: black)" srcset="https://github-readme-stats.lovesykun.cn/api?theme=onedark&username=smabdulmueid97&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">    
-  <img src="https://github-readme-stats.lovesykun.cn/api?username=smabdulmueid97&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">    
-</picture>  <picture>    
-  <source media="(prefers-color-scheme: black)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=yujincheng08&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">    
-  <img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=smabdulmueid97&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">    
-</picture>  <!--    
-**smabdulmueid97/smabdulmueid97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.    Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-
-🌱 I’m currently learning ...
-
-👯 I’m looking to collaborate on ...
-
-🤔 I’m looking for help with ...
-
-💬 Ask me about ...
-
-📫 How to reach me: ...
-
-😄 Pronouns: ...
-
-⚡ Fun fact: ...
--->
+<!-- ████████████████████████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░░░░░░ SMABDULMUEID97 — GITHUB PROFILE ░░░░░░░░░░░░░ -->
+<!-- ████████████████████████████████████████████████████████████████ -->
+<div align="center">
+╔══════════════════════════════════════════════════════╗
+║ ║
+║ S M A B D U L M U E I D ║
+║ ║
+╚══════════════════════════════════════════════════════╝
+</div>
+<div align="center">
+<!-- GITHUB STATS — PITCH BLACK -->
+<picture>
+</picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.
+<img src="https://github-readme-stats.lovesykun.cn/api?username=smabdulmueid97&show_icons=t
+<!-- TOP LANGUAGES — PITCH BLACK -->
+<picture>
+</picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.
+<img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=smabdulmueid97&l
+</div>
+<div align="center">
+building · learning · collaborating · shipping
+</div>
