@@ -1,28 +1,21 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api?username=smabdulmueid97&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
-  <img src="https://github-readme-stats.lovesykun.cn/api?username=smabdulmueid97&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=smabdulmueid97&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
+  <img src="https://github-readme-stats.vercel.app/api?username=smabdulmueid97&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=smabdulmueid97&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
-  <img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=smabdulmueid97&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smabdulmueid97&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smabdulmueid97&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=555555&border_color=222222">
 </picture>
 
 <!--
 **smabdulmueid97/smabdulmueid97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
 
 🔭 I'm currently working on ...
-
 🌱 I'm currently learning ...
-
 👯 I'm looking to collaborate on ...
-
 🤔 I'm looking for help with ...
-
 💬 Ask me about ...
-
 📫 How to reach me: ...
-
 😄 Pronouns: ...
-
 ⚡ Fun fact: ...
 -->
